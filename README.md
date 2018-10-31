@@ -1,6 +1,5 @@
 ﻿# courses
  
-Mehta, Akshay, October 31, 4:22PM 
 Sudan,Gurleen Kaur,November 2,7:39pm
 Matthew Ell added 2015_05_26 6:30PM
 Meghan Jordan added 9:46AM
@@ -188,4 +187,4 @@ Tok AMbayeva, Aidana September 14, 2017 00:52
 Virkar, Shardul September 17, 2017 12:14 AM
 Sawarkar,Bhakti September 17 ,2017 10:00 PM
 
-
+Mehta, Akshay, October 31, 4:22PM 
